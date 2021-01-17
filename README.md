@@ -1,3 +1,3 @@
 # LORSEN
-Version 1.0
-Date: 1/16/2021
+The R program to implement LORSEN.
+Ref: Gao, C., et al, LORSEN: fast and efficient eQTL mapping with low rank penalized regression
